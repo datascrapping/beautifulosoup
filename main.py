@@ -24,5 +24,6 @@ for d in data:
         sholat['isya'] = d.get_text()
     i += 1
 
-print(sholat)
+print (sholat)
+print ('ashar')
 
